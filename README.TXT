@@ -1,1 +1,1 @@
-Front end web development learning project, reactive webpage.
+CSS learning project, reactive webpage.
