@@ -1,2 +1,3 @@
-<h1> Responsive Webpage </h1>
+# Responsive Webpage
+
 Responsive webpage made with HTML, CSS, and Javascript.
