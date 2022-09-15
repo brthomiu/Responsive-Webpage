@@ -1,1 +1,3 @@
-CSS learning project, reactive webpage.
+# Responsive Webpage
+
+Responsive webpage made with HTML, CSS, and Javascript.
